@@ -1,0 +1,32 @@
+{
+  "name": "easynote",
+  "version": "1.0.0",
+  "description": "餐饮即时记账软件",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "记账",
+    "餐饮",
+    "语音输入",
+    "赛博朋克"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "@ant-design/charts": "^2.10.3",
+    "antd": "^5.14.2",
+    "react-speech-recognition": "^3.10.0",
+    "uuid": "^9.0.1"
+  }
+}
